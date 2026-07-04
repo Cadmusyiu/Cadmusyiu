@@ -23,6 +23,7 @@ Based in Taipei 🇹🇼. I build systematic trading systems by day and games by
 
 | Project | What it is |
 | --- | --- |
+| [`llm-usage-widget`](https://github.com/Cadmusyiu/llm-usage-widget) | macOS desktop widget — live LLM quota gauges, burn-rate projections, per-model breakdown |
 | [`serenity-tracker`](https://github.com/Cadmusyiu/serenity-tracker) | X stock-view tracker — hourly fetch → AI ticker/stance extraction → [live dashboard](https://cadmusyiu.github.io/serenity-tracker/) |
 | [`stock-dashboard`](https://github.com/Cadmusyiu/stock-dashboard) | CadAI stock dashboard with social-signal monitoring & screener — [live](https://cadmusyiu.github.io/stock-dashboard/) |
 | [`compute-economy`](https://github.com/Cadmusyiu/compute-economy) | Research dashboard — NVDA / GPU supply × BTC & DXY correlation — [live](https://cadmusyiu.github.io/compute-economy/) |
