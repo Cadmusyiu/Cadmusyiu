@@ -49,6 +49,8 @@ Based in Taipei 🇹🇼. I build systematic trading systems by day and games by
 
 ### 📫 Let's connect
 - 𝕏 Twitter: [@neuraldigi](https://x.com/neuraldigi)
+- 📸 Instagram: [@chocoinvesting](https://instagram.com/chocoinvesting)
+- 🧵 Threads: [@chocoinvesting](https://www.threads.net/@chocoinvesting)
 - 💬 Telegram: [@Chocoinvest](https://t.me/Chocoinvest)
 
 ---
